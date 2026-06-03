@@ -7,6 +7,7 @@ alias la='ls -a'
 alias vim=nvim
 alias gpp=g++
 alias sp=spotify_player
+alias lg=lazygit
 
 export GTK2_RC_FILES="$HOME/.gtkrc-2.0"
 
